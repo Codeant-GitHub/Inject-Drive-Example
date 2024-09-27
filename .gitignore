@@ -14,7 +14,7 @@
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
+# *.dll (移除注释以便上传 .dll 文件)
 
 # Fortran module files
 *.mod
@@ -23,10 +23,10 @@
 # Compiled Static libraries
 *.lai
 *.la
-*.a
-*.lib
+# *.a (移除注释以便上传 .a 文件)
+# *.lib (移除注释以便上传 .lib 文件)
 
 # Executables
-*.exe
+# *.exe (移除注释以便上传 .exe 文件)
 *.out
 *.app
